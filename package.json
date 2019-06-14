@@ -1,0 +1,14 @@
+{
+  "name": "jest-ext-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "THIS_IS_A_TEST=jest_unit_tests jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
